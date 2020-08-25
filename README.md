@@ -1,20 +1,20 @@
 ## Table of Contents
 
 1. About
-   1. [About Nate Walters](https://github.com/newsproutsmedia/NateWalters/new/master#about-nate-walters)
+   1. [About Nate Walters](https://newsproutsmedia.github.io/NateWalters/#about-nate-walters)
    2. [Website](http://natewalters.info)
    3. [GitHub](https://github.com/newsproutsmedia/)
 2. Skills and Software
-   1. [UX/UI Design](https://github.com/newsproutsmedia/NateWalters/new/master#uxui-and-graphic-design)
-   2. [Full-Stack Development](https://github.com/newsproutsmedia/NateWalters/new/master#full-stack-development)
-   3. [Motion Graphics](https://github.com/newsproutsmedia/NateWalters/new/master#motion-graphics)
-   4. [Audio Production](https://github.com/newsproutsmedia/NateWalters/new/master#audio-production)
+   1. [UX/UI Design](https://newsproutsmedia.github.io/NateWalters/#uxui-and-graphic-design)
+   2. [Full-Stack Development](https://newsproutsmedia.github.io/NateWalters//#full-stack-development)
+   3. [Motion Graphics](https://newsproutsmedia.github.io/NateWalters//#motion-graphics)
+   4. [Audio Production](https://newsproutsmedia.github.io/NateWalters//#audio-production)
 3. Resume
-   1. [New Sprouts Media](https://github.com/newsproutsmedia/NateWalters/new/master#new-sprouts-media-llc)
-   2. [The Evergreen Foundation](https://github.com/newsproutsmedia/NateWalters/new/master#the-evergreen-foundation)
-   3. [Spladap, Inc](https://github.com/newsproutsmedia/NateWalters/new/master#spladap-inc)
-   4. [Clinaero, Inc](https://github.com/newsproutsmedia/NateWalters/new/master#clinaero-inc)
-   5. [Vitallink.net](https://github.com/newsproutsmedia/NateWalters/new/master#vitallinknet)
+   1. [New Sprouts Media](https://newsproutsmedia.github.io/NateWalters/#new-sprouts-media-llc)
+   2. [The Evergreen Foundation](https://newsproutsmedia.github.io/NateWalters/#the-evergreen-foundation)
+   3. [Spladap, Inc](https://newsproutsmedia.github.io/NateWalters/#spladap-inc)
+   4. [Clinaero, Inc](https://newsproutsmedia.github.io/NateWalters/#clinaero-inc)
+   5. [Vitallink.net](https://newsproutsmedia.github.io/NateWalters/#vitallinknet)
   
 # About Nate Walters
 Nate is a business owner, designer, and web developer with more than 20 years of experience in the creation of websites, compelling educational videos, software, and marketing plans and materials for companies ranging in size from multinational pharmaceutical corporations to two person non-profit organizations. 
