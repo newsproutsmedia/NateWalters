@@ -59,11 +59,10 @@ Nate is a business owner, designer, and web developer with more than 20 years of
 - Waves
 
 # New Sprouts Media, LLC
-### Founder, Senior Content Producer
+### Founder, Web Developer, Senior Content Producer
 May 2014 – Mar 2020
 
 New Sprouts Media is a digital design and development company that focuses on user engagement and quality of content as a means of reaching new and untapped target audiences.
-- Founded the company and directly engaged with 20 new clients in the first three years, working with them to come up with plans that met their individual needs
 - Designed and built SEO-friendly websites that, on average, increased traffic by 476%
 - Developed social media marketing campaigns and materials that increased engagement by an average of 112%
 - Provided graphic and logo design services to improve brand visibility and affinity
@@ -91,7 +90,7 @@ Spladap is a SaaS, interactive sports training platform that connects athletes w
 - Worked directly with sales team to create marketing materials and presentations
 
 # Clinaero, Inc
-### Senior Content Producer
+### Senior Designer, Front-End Developer
 Nov 2004 – May 2014
 
 Clinaero, Inc. is a web and software company that launched one of the top two consumer health information domains for organic reach (eMedTV.com).
